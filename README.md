@@ -5,8 +5,8 @@ This repository is for data wrangling of the datasets provided in the "Data" fol
 DATA DESCRIPTION:
 
 Data Structure: Multiple tables
-# No. Of Records: 306,534
-# No. Of Fields: 14
+No. Of Records: 306,534
+No. Of Fields: 14
 
 Data that simulates the behavior of Cafe Rewards members over a 30-day period, including their transactions and responses to promotional offers.
 
