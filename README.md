@@ -13,9 +13,9 @@ For dashboard creation I used Tableau (Link is at the end).
 
 #### DATA DESCRIPTION:
 
-Data Structure: Multiple tables
-No. Of Records: 306,534
-No. Of Fields: 14
+Data Structure: Multiple tables. 
+No. Of Records: 306,534. 
+No. Of Fields: 14. 
 More about data can be found in: https://mavenanalytics.io/challenges/maven-rewards-challenge/404c6060-60eb-400f-9bce-c3b9f97e9d5a
 
 The data simulates the behavior of Cafe Rewards members over a 30-day period.
