@@ -1,6 +1,6 @@
 ### Analysis GOAL:
-1. Identify key Cafe Rewards customer segments and develop a data-driven strategy for future promotional messaging & targeting.
-2. Create a dashboard to monitor the performance & result
+* Identify key Cafe Rewards customer segments and develop a data-driven strategy for future promotional messaging & targeting.
+* Create a dashboard to monitor the performance & result
 
 This repository is for data wrangling purpose. The original datasets are in the "Data" folder and the post-transformation datasets are in the "outputs" folder. 
 
@@ -9,7 +9,7 @@ Transformation involved:
 - Extracting data from columns to create new columns
 - Joining tables to enrich and create new datasets
 
-For dashboard creation I used Tableau (Link is at the end).
+For dashboard creation I used Tableau (Link is below under the **ANALYSIS OUTCOME** section).
 
 #### DATA DESCRIPTION:
 
@@ -32,6 +32,9 @@ Each customer receives a different mix of offers, attempting to maximize their p
 NOTE: A transaction is attributed to an offer ONLY if it occured at the same time as when the offer was "completed" by the customer.
 
 ### ANALYSIS OUTCOME
+
+Dashboard in **Tableau**:
+*https://public.tableau.com/app/profile/yania.nada/viz/Cafe_rewards_challenge/Dashboard1*
 
 #### Customer segments:
 The ideal segment to target is customers older than 35 years with income above $50k, irrespective of gender.
@@ -61,4 +64,3 @@ However, higher rewards does incentivize customer to complete offers with higher
 #### RECOMMENDATION:
 Based on the analysis, it is recommended to use discount type offers for promotional offers. The campaign should be targeted to individual above age of 35 with an income higher than $50k. The recommended channel to us is a combination of [web, email, mobile, social].
 
-Link to Dashboard: https://public.tableau.com/views/Cafe_rewards_challenge/Dashboard13?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
